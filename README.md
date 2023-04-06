@@ -1,4 +1,4 @@
-# Expense-App (REACT + REDUX + NODE)
+# Expense-App
 Expense management app involves the process of tracking, analyzing, and controlling expenses within an organization or individual.
 
 This app track all your expenses: Record all expenses, including small ones, as they add up over time.
@@ -11,7 +11,7 @@ An Expense App for authenticated Users.
 - 💻 JavaScript | ES6
 - 🌐 React JS
 - 🔧 Git
-- 📦 Redux, Redux-thunk, React-redux, Bootstrap V5 ,React-router-dom, Axios, Formik and Yup.
+- 📦 Redux, Redux-thunk, React-redux, Bootstrap V5 ,React-router-dom, Axios, Formik and Yup, MVC.
 
 ## Features
 ### User Authentication.
