@@ -6,6 +6,7 @@ const app = express()
 const PORT = 3021
 
 app.use(express.json())
+app.use('/upload', express.static('upload'))
 app.use(cors())
 app.use(router)
 configDb()
