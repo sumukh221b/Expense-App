@@ -3,12 +3,10 @@ const Schema = mongoose.Schema
 
 const userProfileSchema = new Schema({
     name: {
-        type: String,
-        required: true
+        type: String
     },
     email: {
-        type: String,
-        required: true
+        type: String
     },
     profileUrl: {
         type: String
