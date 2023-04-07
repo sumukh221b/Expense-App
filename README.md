@@ -34,4 +34,4 @@ On User Logging In fetching user account details & expenses, so that no need to 
 After Log Out if a user tries to access the account page he will be redirected to the about us page.
 
 ### Manual Setup
-Download the project folder, then go to expense-app-frontend and run `npm start` to view the Project.
+Download the project folder, go to expense-app-backend and run `nodemon index.js` and then go to expense-app-frontend and run `npm start` to view the Project.
